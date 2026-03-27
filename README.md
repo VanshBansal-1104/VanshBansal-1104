@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Specialist;Data+Driven+Developer;Building+Real+World+AI+Systems🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Specialist;Data+Driven+Developer" />
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ AI-focused developer specializing in machine learning, data analytics, and intel
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshBansal-1104&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBansal-1104&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshBansal-1104&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBansal-1104&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -57,23 +57,14 @@ AI-focused developer specializing in machine learning, data analytics, and intel
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBansal-1104&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Achievements
 
+<!-- ❌ Removed buggy trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanshBansal-1104&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/AlgoVerse%202025-Finalist-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ideat--A--Thon-Finalist-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leadership-Head%20of%20Finance-blue?style=for-the-badge"/>
 </p>
-
-- 🥇 Finalist — AlgoVerse 2025  
-- 🥇 Finalist — Ideat-A-Thon  
-- 👑 Head of Partnership & Finance  
 
 ---
 
