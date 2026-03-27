@@ -157,9 +157,17 @@ Real-time translation platform supporting voice, text, Braille & sign language a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshBansal-1104&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=8b949e&ring_color=00e5ff&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshBansal-1104&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshBansal-1104&theme=tokyonight" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBansal-1104&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&text_color=8b949e&langs_count=6" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshBansal-1104&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshBansal-1104&theme=tokyonight" height="180"/>
 
 </div>
 
