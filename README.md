@@ -17,10 +17,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-bansal-92b335271/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh.nitubansal@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshBansal-1104)&nbsp;
+
+</div>
+<div align="center">
+
 [![Views](https://komarev.com/ghpvc/?username=VanshBansal-1104&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)](https://github.com/VanshBansal-1104)
 
 </div>
-
 <br>
 
 ---
